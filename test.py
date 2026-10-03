@@ -1,1 +1,1 @@
-print('jaaj')
+print('jooj')
